@@ -6,7 +6,7 @@
             "value": "27568ba9-ce7c-4e64-92da-f1e46c0f2a4a"
         },
         "name": {
-            "value": "firstlab1"
+            "value": "softwareDeployment1"
         },
         "location": {
             "value": "West Europe"
@@ -20,8 +20,23 @@
         "alwaysOn": {
             "value": false
         },
+        "sku": {
+            "value": "Free"
+        },
+        "skuCode": {
+            "value": "F1"
+        },
+        "workerSize": {
+            "value": "0"
+        },
+        "workerSizeId": {
+            "value": "0"
+        },
+        "numberOfWorkers": {
+            "value": "1"
+        },
         "linuxFxVersion": {
-            "value": "NODE|10.14"
+            "value": "PHP|7.3"
         }
     }
 }
