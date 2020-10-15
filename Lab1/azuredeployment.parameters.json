@@ -6,19 +6,34 @@
             "value": "27568ba9-ce7c-4e64-92da-f1e46c0f2a4a"
         },
         "name": {
-            "value": "firstlab1"
+            "value": "lab1Wagner"
         },
         "location": {
             "value": "West Europe"
         },
         "hostingPlanName": {
-            "value": "ASP-softwareDeploymentLab1-a6d4"
+            "value": "ASP-lab1-8a53"
         },
         "serverFarmResourceGroup": {
-            "value": "softwareDeploymentLab1"
+            "value": "lab1"
         },
         "alwaysOn": {
             "value": false
+        },
+        "sku": {
+            "value": "Free"
+        },
+        "skuCode": {
+            "value": "F1"
+        },
+        "workerSize": {
+            "value": "0"
+        },
+        "workerSizeId": {
+            "value": "0"
+        },
+        "numberOfWorkers": {
+            "value": "1"
         },
         "linuxFxVersion": {
             "value": "NODE|10.14"
