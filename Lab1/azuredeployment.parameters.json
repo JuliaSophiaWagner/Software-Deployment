@@ -6,16 +6,16 @@
             "value": "27568ba9-ce7c-4e64-92da-f1e46c0f2a4a"
         },
         "name": {
-            "value": "lab1Wagner"
+            "value": "lab1WagnerJuliaSophia"
         },
         "location": {
             "value": "West Europe"
         },
         "hostingPlanName": {
-            "value": "ASP-lab1-8a53"
+            "value": "ASP-myLab1-ae2b"
         },
         "serverFarmResourceGroup": {
-            "value": "lab1"
+            "value": "myLab1"
         },
         "alwaysOn": {
             "value": false
