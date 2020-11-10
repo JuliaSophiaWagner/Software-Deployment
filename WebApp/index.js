@@ -4,7 +4,7 @@ const port = process.env.PORT||3000;
 const appInsights = require("applicationinsights");
 
 appInsights
-  .setup("8c59d630-c433-4764-a5e7-492c5d1a688a")
+  .setup("aa0863e6-4d90-497f-900a-12c9ffd57b0b")
   .setDistributedTracingMode(appInsights.DistributedTracingModes.AI_AND_W3C)
   .start()
 
