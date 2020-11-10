@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0230" tests="1" failures="1">
+  <testsuite name="Root Suite" timestamp="2020-11-10T21:55:49" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Array" timestamp="2020-11-10T21:55:49" tests="0" file="D:\FH\5. Semester\Software Deployment\WebApp\test\test.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="#indexOf()" timestamp="2020-11-10T21:55:49" tests="1" file="D:\FH\5. Semester\Software Deployment\WebApp\test\test.js" time="0.0230" failures="1">
+    <testcase name="Array #indexOf() should return -1 when the value is not present" time="0.0230" classname="should return -1 when the value is not present">
+      <failure message="2 == -1" type="AssertionError"><![CDATA[AssertionError [ERR_ASSERTION]: 2 == -1
+    at Context.<anonymous> (test\test.js:5:14)
+    at processImmediate (internal/timers.js:439:21)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>
