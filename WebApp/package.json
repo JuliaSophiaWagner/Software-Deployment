@@ -16,7 +16,8 @@
     "mocha": "^8.2.1"
   },
   "scripts": {
-    "test": "mocha Test --reporter mocha-junit-reporter"
+    "test": "mocha Test --reporter mocha-junit-reporter",
+    "start": "index.js"
   },
   "author": "",
   "license": "ISC"
