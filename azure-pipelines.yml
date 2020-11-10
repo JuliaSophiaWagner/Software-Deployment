@@ -26,7 +26,7 @@ steps:
     appType: 'webAppLinux'
     appName: 'lab1wagnerjuliasophia'
     package: '$(System.DefaultWorkingDirectory)/WebApp'
-    customWebConfig: '-Handler iisnode -NodeStartFile app.js -appType node'
+    customWebConfig: '-Handler iisnode -NodeStartFile index.js -appType node'
 
 - task: PublishTestResults@2
   inputs:
