@@ -16,6 +16,24 @@ The NodeJS application can be found in the main folder **Software Deployment** u
 
 #### Screenshot Azure DevOps build/Test/Deploy Pipeline
 
+* Summary Pipeline
+  * ![](Screenshots/Summary_Pipeline.PNG)
+  
+  
+* Succeeded run
+  * ![](Screenshots/Succeeded_Run.PNG)
+  
+* Build
+  *   ![](Screenshots/Build.PNG)
+
+* Test succeeded
+  * ![](Screenshots/Test.PNG)
+
+* Test failed
+  * ![](Screenshots/Test_failed.PNG)
+
+
+
 #### Screenshot der Azure DevOps Release Pipeline
 ![](Screenshots/Release.PNG)
 
