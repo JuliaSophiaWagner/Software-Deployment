@@ -29,6 +29,7 @@ steps:
     customWebConfig: '-Handler iisnode -NodeStartFile index.js -appType node'
 
 - task: PublishTestResults@2
+  condition: succeededOrFailed()
   inputs:
     testResultsFormat: 'JUnit'
     testResultsFiles: '**/test-*.xml'
