@@ -1,4 +1,4 @@
-# Software Deployment
+# Software Deployment - Lab 1
 
 The ARM Template creates an azure storage account and an azure web-app for node.js (version 10.14).
 
