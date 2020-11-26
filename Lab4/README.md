@@ -16,4 +16,5 @@ Here "--generate --ssh-keys" had to be added at the end, because an error messag
   * `kubectl apply -f /home/wagner/wordepress-deployment.yaml`
 * Now you could look at the external ip address under `kubectl get services` and use it. After that you will see that it works.
 
+IP-Address: 40.114.176.2
 ![](Screenshots/MyAks.PNG)
